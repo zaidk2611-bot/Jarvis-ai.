@@ -1,2 +1,8 @@
-# Jarvis-ai.
-My personal ai assistant 
+jarvis-ai/
+│
+├── public/
+│   └── index.html
+│
+├── server.js
+├── package.json
+└── README.txt
